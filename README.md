@@ -1,2 +1,2 @@
 # azure-ServicePrinciple
-Azure authentication with service principle and secret
+Azure authentication with service principle and client secret
